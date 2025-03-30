@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Shopaholics</string>
     <string name="shopaholics">Shopaholics</string>
+    <string name="shopaholic">Shopaholic</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login1">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email1">Enter Email</string>
+    <string name="welcome_user">Welcome, User!</string>
+    <string name="logout">Logout</string>
+    <string name="product_name">Product Name</string>
+    <string name="_0000">₹0000</string>
 </resources>
